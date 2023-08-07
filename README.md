@@ -1,6 +1,6 @@
 ## About ✨
 
-I'm a fullstack web developer specialized in building web sites and web applications.
+I'm a web developer specializing in building full-stack web applications.
 
 stack: 
 - TypeScript
